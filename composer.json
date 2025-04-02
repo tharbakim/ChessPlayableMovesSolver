@@ -1,0 +1,15 @@
+{
+    "name": "tharbakim/chess-playable-moves-solver",
+    "autoload": {
+        "psr-4": {
+            "Tharbakim\\ChessPlayableMovesSolver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tharbakim",
+            "email": "tharbakim@hotmail.com"
+        }
+    ],
+    "require": {}
+}
